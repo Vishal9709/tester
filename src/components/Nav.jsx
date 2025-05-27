@@ -18,7 +18,7 @@ function Nav() {
 
   return (
     <div className='w-full h-[100px] flex justify-between items-center px-5 md:px-8'>
-        <div>keshri</div>
+        <div>v.keshri</div>
         <div className='w-[60px] h-[60px] bg-white flex justify-center items-center rounded-md shadow-xl'>
            <MdFastfood className='w-[30px] h-[30px] text-orange-500' />
         </div>
